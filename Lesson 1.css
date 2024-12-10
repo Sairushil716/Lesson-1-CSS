@@ -1,0 +1,21 @@
+.xyz
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkorchid;
+}
+#p_tag_1
+{
+    font-weight: bolder;
+    background-color: firebrick;
+}
+h2,h6{
+color: rgb(28, 105, 105);
+}
+*{
+    font-style: italic;
+    border-color: darkred;
+    border-style: groove;
+    border-radius: 30px;
+    background-color: goldenrod;
+    background-position: center;
+}
